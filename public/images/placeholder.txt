@@ -1,0 +1,8 @@
+このディレクトリに以下の画像ファイルを配置してください：
+
+- inora-book-1.jpg (メイン商品画像)
+- inora-book-2.jpg (使用イメージ)
+- inora-book-3.jpg (サイズ感・質感)
+
+推奨サイズ: 800x600px以上
+形式: JPG, PNG, WebP
